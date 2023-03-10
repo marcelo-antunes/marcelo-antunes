@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data Analytics
+
+![Currículo Marcelo Antunes](https://github.com/marcelo-antunes/marcelo-antunes/blob/main/CV-MarceloAntunes-AnalistaDeDados.jpg "CV Marcelo Antunes")
+
 <!--
 **marcelo-antunes/marcelo-antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
