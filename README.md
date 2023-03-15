@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently migrating to the Data Analytics career.
+
 
 ![Currículo Marcelo Antunes](https://github.com/marcelo-antunes/marcelo-antunes/blob/main/CV-MarceloAntunes-AnalistaDeDados.jpg "CV Marcelo Antunes")
 
