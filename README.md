@@ -2,11 +2,12 @@
 
 - 🌱 I’m currently migrating to the Data Analytics career.
 
+[Currículo Marcelo Antunes](https://github.com/marcelo-antunes/curriculo/blob/main/CV-MarceloAntunes-AnalistaDeDados.pdf "CV Marcelo Antunes")
 
-![Currículo Marcelo Antunes](https://github.com/marcelo-antunes/marcelo-antunes/blob/main/CV-MarceloAntunes-AnalistaDeDados.jpg "CV Marcelo Antunes")
 
 <!--
 **marcelo-antunes/marcelo-antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Currículo Marcelo Antunes](https://github.com/marcelo-antunes/marcelo-antunes/blob/main/CV-MarceloAntunes-AnalistaDeDados.jpg "CV Marcelo Antunes")
 
 Here are some ideas to get you started:
 
