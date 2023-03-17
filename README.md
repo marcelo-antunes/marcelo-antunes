@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently migrating to the Data Analytics career.
 
-[Currículo Marcelo Antunes](https://github.com/marcelo-antunes/Curriculo/blob/main/CV-MarceloAntunes-AnalistaDeDados.pdf "CV Marcelo Antunes em pdf")
+[Currículo Marcelo Antunes em pdf](https://github.com/marcelo-antunes/Curriculo/blob/main/CV-MarceloAntunes-AnalistaDeDados.pdf "CV Marcelo Antunes")
 
 
 <!--
