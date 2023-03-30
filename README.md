@@ -1,6 +1,8 @@
-### Hi there 👋
+### Olá para todos! 👋
 
-- 🌱 I’m currently building my career in Data Analytics.
+- 🌱 Estou construindo minha carreira em Análise de Dados.
+
+Abaixo está meu currículo. 👇
 
 [Currículo Marcelo Antunes in pdf](https://github.com/marcelo-antunes/Curriculo/blob/main/CV-MarceloAntunes-AnalistaDeDados.pdf "CV Marcelo Antunes")
 
